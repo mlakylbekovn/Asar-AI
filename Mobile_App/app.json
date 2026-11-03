@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "ASAR AI",
+    "slug": "asar-ai-community",
+    "scheme": "asarai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": { "supportsTablet": true, "bundleIdentifier": "kz.asar.ai.community" },
+    "android": { "package": "kz.asar.ai.community", "adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#F0FAF4" } },
+    "plugins": [],
+    "extra": { "demoMode": true }
+  }
+}
